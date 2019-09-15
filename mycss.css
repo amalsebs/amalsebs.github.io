@@ -41,7 +41,7 @@
 h2{
   padding: 5px 0;
   font-size: 38px;
-  font-family: Trebuchet MS;
+  font-family: 'Taviraj', serif;
   color: white;
 }
 h4{
@@ -52,12 +52,12 @@ h4{
 span{
   padding: 5px 0;
   font-size: 28px;
-  font-family: times new roman;
+  font-family: 'Exo 2', sans-serif;
   color: white;
 }
 @media(hover:none){
   .socialmedia{
-    margin: 40px 0px;
+    margin: 50px 0px;
   }
   .socialmedia a{
     background: white;
@@ -72,16 +72,15 @@ span{
     height: 65%;
   }
   h2{
-    padding: 25px 0;
-    font-size: 120px;
+    font-size: 110px;
   }
   h4{
-    padding: 25px 0;
-    font-size: 100px;
+    font-size: 90px;
+    margin-bottom: 70px;
   }
   span{
-    padding: 25px 0;
-    font-size: 100px;
+    font-size: 90px;
+    margin-bottom: 70px;
   }
 }
 @media(max-height: 380px){
